@@ -4,9 +4,9 @@
 
 This Python script analyzes referee statistics from a CSV file using the Pandas library.
 
-## Prerequisites
+## Requirements
 
-- Python 3.x
+- Python 3
 - Pandas library
 
 ## Getting Started
